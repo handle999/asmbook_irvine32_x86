@@ -5,3 +5,5 @@ The sample project files in this repository were created using Microsoft Visual 
 
 You are free to download and use these files for educational purposes, but you cannot claim ownership, sell, or license any of these files to another party.
 They remain the property of the author (Kip Irvine).
+
+Getting help of interfaces, view this blog: (https://blog.csdn.net/qq_41289254/article/details/103173001)
